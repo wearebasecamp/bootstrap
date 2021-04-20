@@ -62,6 +62,10 @@
   }
 }
 
+.btn-primary {
+  color: $white;
+}
+
 @each $color, $value in $theme-colors {
   .btn-outline-#{$color} {
     @include button-outline-variant($value);

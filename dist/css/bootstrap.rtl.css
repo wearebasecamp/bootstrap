@@ -3166,6 +3166,10 @@ textarea.form-control-lg {
   border-color: #141618;
 }
 
+.btn-primary {
+  color: #fff;
+}
+
 .btn-outline-primary {
   color: #eb6846;
   border-color: #eb6846;
