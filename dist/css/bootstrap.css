@@ -3171,6 +3171,9 @@ textarea.form-control-lg {
 .btn-primary {
   color: #fff;
 }
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus, .btn-primary:disabled, .btn-primary.disabled {
+  color: #fff;
+}
 
 .btn-outline-primary {
   color: #eb6846;

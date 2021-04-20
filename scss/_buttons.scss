@@ -64,6 +64,14 @@
 
 .btn-primary {
   color: $white;
+
+  &:hover,
+  &:active,
+  &:focus,
+  &:disabled,
+  &.disabled {
+    color: $white;
+  }
 }
 
 @each $color, $value in $theme-colors {
