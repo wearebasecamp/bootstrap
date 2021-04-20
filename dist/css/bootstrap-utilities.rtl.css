@@ -19,10 +19,10 @@
 }
 
 .link-secondary {
-  color: #424950;
+  color: #656f79;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: #353a40;
+  color: #515961;
 }
 
 .link-success {
@@ -54,10 +54,10 @@
 }
 
 .link-light {
-  color: #7e8994;
+  color: #dfe2e5;
 }
 .link-light:hover, .link-light:focus {
-  color: #98a1a9;
+  color: #e5e8ea;
 }
 
 .link-dark {
@@ -382,7 +382,7 @@
 }
 
 .border {
-  border: 1px solid #656f79 !important;
+  border: 1px solid #b6bcc2 !important;
 }
 
 .border-0 {
@@ -390,7 +390,7 @@
 }
 
 .border-top {
-  border-top: 1px solid #656f79 !important;
+  border-top: 1px solid #b6bcc2 !important;
 }
 
 .border-top-0 {
@@ -398,7 +398,7 @@
 }
 
 .border-end {
-  border-left: 1px solid #656f79 !important;
+  border-left: 1px solid #b6bcc2 !important;
 }
 
 .border-end-0 {
@@ -406,7 +406,7 @@
 }
 
 .border-bottom {
-  border-bottom: 1px solid #656f79 !important;
+  border-bottom: 1px solid #b6bcc2 !important;
 }
 
 .border-bottom-0 {
@@ -414,7 +414,7 @@
 }
 
 .border-start {
-  border-right: 1px solid #656f79 !important;
+  border-right: 1px solid #b6bcc2 !important;
 }
 
 .border-start-0 {
@@ -426,7 +426,7 @@
 }
 
 .border-secondary {
-  border-color: #424950 !important;
+  border-color: #656f79 !important;
 }
 
 .border-success {
@@ -446,7 +446,7 @@
 }
 
 .border-light {
-  border-color: #7e8994 !important;
+  border-color: #dfe2e5 !important;
 }
 
 .border-dark {
@@ -1247,7 +1247,7 @@
 }
 
 .text-secondary {
-  color: #424950 !important;
+  color: #656f79 !important;
 }
 
 .text-success {
@@ -1267,7 +1267,7 @@
 }
 
 .text-light {
-  color: #7e8994 !important;
+  color: #dfe2e5 !important;
 }
 
 .text-dark {
@@ -1283,7 +1283,7 @@
 }
 
 .text-muted {
-  color: #424950 !important;
+  color: #656f79 !important;
 }
 
 .text-black-50 {
@@ -1303,7 +1303,7 @@
 }
 
 .bg-secondary {
-  background-color: #424950 !important;
+  background-color: #656f79 !important;
 }
 
 .bg-success {
@@ -1323,7 +1323,7 @@
 }
 
 .bg-light {
-  background-color: #7e8994 !important;
+  background-color: #dfe2e5 !important;
 }
 
 .bg-dark {
