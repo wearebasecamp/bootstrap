@@ -18,6 +18,11 @@
   $disabled-border: $border,
   $disabled-color: color-contrast($disabled-background)
 ) {
+
+  @if $color == $primary {
+    $color: $white;
+  }
+
   color: $color;
   @include gradient-bg($background);
   border-color: $border;
