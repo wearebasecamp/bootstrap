@@ -8,9 +8,7 @@
       "outline": "none"
     },
     "function-disallowed-list": [
-      "calc",
-      "lighten",
-      "darken"
+      "calc"
     ],
     "property-disallowed-list": [
       "border-radius",
